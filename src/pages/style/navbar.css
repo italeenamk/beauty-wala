@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lacquer&display=swap');
+
+
+#navbar-content {}
+#navbar-content .container-fluid {}
+#navbar-content .container-fluid .row {}
+.navbar-nav {}
+.navbar-nav .nav-item {
+    margin: 0 11px;
+}
+.navbar-nav .nav-item:hover {
+    border-bottom: 3px solid #de4494;
+}
+.navbar-nav .nav-item .nav-link {
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    transition: 0.3s;
+}
+.navbar-nav .nav-item .nav-link:hover {
+    color: #de4494;
+}
+.navbar-brand {
+    color: black !important;
+    font-family: 'Lacquer', cursive;
+}
