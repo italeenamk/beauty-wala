@@ -8,6 +8,8 @@
 .navbar-nav {}
 .navbar-nav .nav-item {
     margin: 0 11px;
+    border-bottom: 3px solid transparent;
+    transition: 0.2s;
 }
 .navbar-nav .nav-item:hover {
     border-bottom: 3px solid #de4494;
@@ -16,7 +18,7 @@
     color: black;
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
-    transition: 0.3s;
+    transition: 0.2s;
 }
 .navbar-nav .nav-item .nav-link:hover {
     color: #de4494;
