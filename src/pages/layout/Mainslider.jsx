@@ -14,7 +14,7 @@ const Mainslider = () => {
                               <div className="slider-side-content">
                                   <h3>OUT NOW</h3>
                                   <h2>New Beauty Trend</h2>
-                                  <p>Discover our collection for this new hot season.</p>
+                                  <h5>Discover our collection for this new hot season.</h5>
                                   <button>SHOP NOW</button>
                               </div>
                           </div>

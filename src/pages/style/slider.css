@@ -5,5 +5,39 @@
 }
 .slider-content .container-fluid {}
 .slider-content .container-fluid .row {
-    padding: 100px 7%;
+    padding: 185px 7%;
+}
+.slider-side-content {}
+.slider-side-content h3 {
+    font-family: ui-sans-serif;
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+.slider-side-content h2 {
+    font-family: 'Lacquer', cursive;
+    margin: 25px 0;
+    font-size: 47px;
+}
+.slider-side-content h5 {
+    font-family: ui-sans-serif;
+    font-size: 21px;
+    letter-spacing: 1px;
+}
+.slider-side-content button {
+    background: none;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    border: 1px solid black;
+    font-weight: 600;
+    border-radius: 0;
+    outline: none;
+    transition: 0.2s;
+    letter-spacing: 2px;
+    padding: 12px 31px;
+    margin-top: 28px;
+}
+.slider-side-content button:hover {
+    background: linear-gradient(#ff3475, #feb682);
+    border: 1px solid white;
+    color: white;
 }
