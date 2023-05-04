@@ -1,0 +1,9 @@
+#main-slider-content {
+    background: url("https://venia-store-demo.myshopify.com/cdn/shop/files/slideshow-v1.jpg?v=1614355109");
+    background-position: center;
+    background-size: cover;
+}
+.slider-content .container-fluid {}
+.slider-content .container-fluid .row {
+    padding: 100px 7%;
+}

@@ -1,4 +1,5 @@
 import '../style/navbar.css';
+import logo_img from '../assest/makeup.png';
 
 
 const Navbar = () => {
@@ -9,7 +10,7 @@ const Navbar = () => {
                   <div className="row">
                       <div className="col-md-12">
                           <nav className="navbar navbar-expand-md navbar-dark">
-                              <a className="navbar-brand" href="#">Beauty</a>
+                              <a className="navbar-brand" href="#"><img src={ logo_img } alt=""/>Beauty</a>
                               <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
                                   <span className="navbar-toggler-icon"></span>
                               </button>

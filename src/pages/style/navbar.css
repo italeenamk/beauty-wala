@@ -4,7 +4,9 @@
 
 #navbar-content {}
 #navbar-content .container-fluid {}
-#navbar-content .container-fluid .row {}
+#navbar-content .container-fluid .row {
+    padding: 10px 5%;
+}
 .navbar-nav {}
 .navbar-nav .nav-item {
     margin: 0 11px;
@@ -12,7 +14,7 @@
     transition: 0.2s;
 }
 .navbar-nav .nav-item:hover {
-    border-bottom: 3px solid #de4494;
+    border-bottom: 3px solid #feb682;
 }
 .navbar-nav .nav-item .nav-link {
     color: black;
@@ -21,9 +23,14 @@
     transition: 0.2s;
 }
 .navbar-nav .nav-item .nav-link:hover {
-    color: #de4494;
+    color: #ff3475;
 }
 .navbar-brand {
     color: black !important;
     font-family: 'Lacquer', cursive;
+    display: contents;
+}
+.navbar-brand img {
+    margin-right: 10px;
+    width: 33px;
 }
