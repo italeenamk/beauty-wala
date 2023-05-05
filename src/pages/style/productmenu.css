@@ -1,0 +1,7 @@
+#product-menu-content {}
+#product-menu-content .container-fluid {}
+#product-menu-content .container-fluid .row {
+    padding: 0 5%;
+    padding-bottom: 30px;
+}
+.product-menu-content {}
