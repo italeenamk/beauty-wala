@@ -5,3 +5,49 @@
     padding-bottom: 30px;
 }
 .product-menu-content {}
+.portfolio-img-content {
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    z-index: 1;
+}
+.portfolio-design-content img {
+    transition: 0.2s;
+    cursor: pointer;
+}
+.product-effect-content {}
+.portfolio-design-content img:hover {
+    transform: scale3d(1.06, 1.061, 1.06);
+}
+.product-effect-content .product-menu-text-content {
+    position: relative;
+    left: 47px;
+    top: -129px;
+    /*opacity: 0;*/
+    z-index: 100;
+    transition: 0.6s;
+}
+.product-effect-content .product-menu-text-content:hover {
+    top: -184px;
+    /*opacity: 1;*/
+}
+.product-menu-text-content h2 {
+    font-family: 'Lacquer', cursive;
+    font-size: 26px;
+}
+.product-menu-text-content p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    color: #7d7b7b;
+    letter-spacing: 3px;
+}
+.product-menu-text-content a {
+    color: black;
+    font-size: 17px;
+    margin-top: -8px;
+    display: block;
+    border-bottom: 1px solid black;
+    width: 95px;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}
