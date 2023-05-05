@@ -1,0 +1,20 @@
+#services-content {}
+#services-content .container-fluid {}
+#services-content .container-fluid .row {
+    padding: 100px 6%;
+}
+.services-card-content {}
+.services-card-content img {}
+.services-card-content h3 {
+    font-family: 'Lacquer', cursive;
+    font-size: 20px;
+    margin-top: 13px;
+}
+.services-card-content p span {
+    display: block;
+}
+.services-card-content p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    color: #a9a9a9;
+}
