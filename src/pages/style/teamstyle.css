@@ -1,0 +1,57 @@
+#team-main-section-content {}
+.about-team-content {}
+.about-team-content .container-fluid {}
+.about-team-content .container-fluid .row {}
+.about-team-text-content {}
+.about-team-text-content h2 {
+    font-family: 'Lacquer', cursive;
+    margin-bottom: 20px;
+    font-size: 33px;
+}
+.about-team-text-content p {
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-size: 15px;
+    line-height: 26px;
+}
+.about-team-profile-content {}
+.about-team-profile-content .container-fluid {}
+.about-team-profile-content .container-fluid .row {
+    padding: 34px 6%;
+}
+.team-profile-content {
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    z-index: 1;
+}
+.team-profile-content img {
+    cursor: pointer;
+    transition: 0.2s;
+}
+.extra-team-hover-effect {}
+.extra-team-hover-effect img {
+    transition:  0.5s;
+}
+.extra-team-hover-effect img:hover {
+    transform: scaleX(-1);
+}
+.team-profile-content img:hover {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+.team-profile-content h3 {
+    font-family: 'Lacquer', cursive;
+    font-size: 20px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    margin-top: 23px;
+}
+.team-profile-content p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-weight: 500;
+}
