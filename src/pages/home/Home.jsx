@@ -4,6 +4,7 @@ import Mainslider from "../layout/Mainslider";
 import Services from "../layout/Services";
 import Productmenu from "../layout/Productmenu";
 import Teamsection from "../layout/Teamsection";
+import Productdeal from "../layout/Productdeal";
 
 
 const Home = () => {
@@ -13,6 +14,7 @@ const Home = () => {
           <Services/>
           <Productmenu/>
           <Teamsection/>
+          <Productdeal/>
       </>
   )
 }
