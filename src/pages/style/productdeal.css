@@ -1,0 +1,12 @@
+#today-deal-main-content {
+    background: url("https://venia-store-demo.myshopify.com/cdn/shop/files/bg-produstsale.jpg?v=1614356908");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#today-deal-main-content > h1 {
+    text-align: center;
+    font-family: 'Lacquer', cursive;
+    padding: 82px 0;
+    font-size: 35px;
+}
