@@ -50,7 +50,8 @@
     cursor: pointer;
     opacity: 0;
     transition: .4s ease;
-    background-image: linear-gradient(to bottom right, #ff3475, #feb682);
+    /*background-image: linear-gradient(to bottom right, #ff3475, #feb682);*/
+    background-image: linear-gradient(to bottom right, #ff3475cc, #feb682e8);
 }
 
 .container:hover .overlay {
