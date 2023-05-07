@@ -5,6 +5,7 @@ import Services from "../layout/Services";
 import Productmenu from "../layout/Productmenu";
 import Teamsection from "../layout/Teamsection";
 import Productdeal from "../layout/Productdeal";
+import Faqspage from "../layout/Faqspage";
 
 
 const Home = () => {
@@ -15,6 +16,7 @@ const Home = () => {
           <Productmenu/>
           <Teamsection/>
           <Productdeal/>
+          <Faqspage/>
       </>
   )
 }

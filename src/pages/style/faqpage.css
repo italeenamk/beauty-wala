@@ -1,0 +1,25 @@
+#faq-page-main-content {}
+.faq-page-heading-content {}
+.faq-page-heading-content .container-fluid {}
+.faq-page-heading-content .container-fluid .row {
+    padding-top: 75px;
+}
+.faq-page-heading-content .container-fluid .row .col-md-6 {
+    padding: 0;
+}
+.faq-text-heading-content {}
+.faq-text-heading-content > h2 {
+    text-align: center;
+    font-family: 'Lacquer', cursive;
+    font-size: 35px;
+}
+.faq-text-heading-content > p {
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    margin-top: 20px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-size: 15px;
+    line-height: 26px;
+    text-align: center;
+}
