@@ -23,3 +23,30 @@
     line-height: 26px;
     text-align: center;
 }
+.faq-text-heading-content > hr {
+    margin-top: 25px;
+}
+.faq-page-question-list-main-content {}
+.faq-page-question-list-main-content .container-fluid {}
+.faq-page-question-list-main-content .container-fluid .row {
+    padding: 30px 6%;
+}
+.question-list-content {}
+.question-list-content ul {}
+.question-list-content ul li {
+    list-style: none;
+}
+.question-list-content ul li h3 {
+    font-family: 'Lacquer', cursive;
+    cursor: pointer;
+    font-size: 22px;
+}
+.question-list-content ul li p {
+    font-family: 'Poppins', sans-serif;
+    margin-top: 20px;
+    transition: 0.3s;
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-size: 15px;
+    line-height: 26px;
+}
