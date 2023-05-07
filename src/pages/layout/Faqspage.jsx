@@ -1,5 +1,6 @@
 import React from "react";
 import '../style/faqpage.css';
+import left_colum_img from '../assest/eyeshadow.png';
 
 
 class Faqspage extends React.Component {
@@ -101,9 +102,9 @@ class Faqspage extends React.Component {
                                         </ul>
                                     </div>
                                 </div>
-                                <div className="col-md-6 col-sm-12">
+                                <div className="col-md-6 col-sm-12 text-center">
                                     <div className="fsq-left-colum-img-content">
-                                        <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.stickpng.com%2Fcat%2Fobjects%2Fmakeup%3Fpage%3D1&psig=AOvVaw21ds5EfDzZ8fksZJZYO5az&ust=1683553724956000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOiy68Os4_4CFQAAAAAdAAAAABBo" alt=""/>
+                                        <img src="https://media.istockphoto.com/id/1351143377/vector/background-with-cosmetics-for-skincare-and-makeup-illustration-for-advertising-beauty-and.jpg?s=612x612&w=0&k=20&c=gIGd6PplzwFOd7jBI9iHoGzsIhBhzwtZXWvXSCs7a9w=" alt=""/>
                                     </div>
                                 </div>
                             </div>

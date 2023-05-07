@@ -34,7 +34,9 @@ hr {
     margin-top: 17px !important;
     margin: 0 27px;
 }
-.question-list-content {}
+.question-list-content {
+    margin-top: 80px;
+}
 .question-list-content ul {}
 .question-list-content ul li {
     list-style: none;
@@ -60,4 +62,8 @@ hr {
     letter-spacing: 1px;
     font-size: 15px;
     line-height: 26px;
+}
+.fsq-left-colum-img-content {}
+.fsq-left-colum-img-content img {
+    margin-top: -26px;
 }
