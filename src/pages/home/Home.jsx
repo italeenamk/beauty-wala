@@ -7,6 +7,7 @@ import Teamsection from "../layout/Teamsection";
 import Productdeal from "../layout/Productdeal";
 import Faqspage from "../layout/Faqspage";
 import Arrivalsproduct from "../layout/Arrivalsproduct";
+import Contactus from "../layout/Contactus";
 
 
 const Home = () => {
@@ -19,6 +20,7 @@ const Home = () => {
           <Productdeal/>
           <Faqspage/>
           <Arrivalsproduct/>
+          <Contactus/>
       </>
   )
 }

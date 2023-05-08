@@ -1,0 +1,17 @@
+#contactus-page-main-content {}
+#contactus-page-main-content h1 {
+    text-align: center;
+    font-family: 'Lacquer', cursive;
+    padding: 56px 0;
+    font-size: 35px;
+}
+.contact-us-file-content {}
+.contact-us-file-content .container-fluid {}
+.contact-us-file-content .container-fluid .row {
+    padding: 0 6%;
+    padding-bottom: 30px;
+}
+.right-google-map-content {}
+.right-google-map-content iframe {
+    width: 100%;
+}
