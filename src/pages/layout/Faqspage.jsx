@@ -1,6 +1,6 @@
 import React from "react";
 import '../style/faqpage.css';
-import left_colum_img from '../assest/eyeshadow.png';
+import right_colum_img from '../assest/depositphotos_101123364-stock-illustration-vector-woman-with-a-question.jpg';
 
 
 class Faqspage extends React.Component {
@@ -104,7 +104,7 @@ class Faqspage extends React.Component {
                                 </div>
                                 <div className="col-md-6 col-sm-12 text-center">
                                     <div className="fsq-left-colum-img-content">
-                                        <img src="https://media.istockphoto.com/id/1351143377/vector/background-with-cosmetics-for-skincare-and-makeup-illustration-for-advertising-beauty-and.jpg?s=612x612&w=0&k=20&c=gIGd6PplzwFOd7jBI9iHoGzsIhBhzwtZXWvXSCs7a9w=" alt=""/>
+                                        <img src={ right_colum_img } alt="" className="img-fluid"/>
                                     </div>
                                 </div>
                             </div>

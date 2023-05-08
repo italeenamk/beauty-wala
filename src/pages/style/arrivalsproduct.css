@@ -1,0 +1,51 @@
+#arrivals-product-main-content {}
+#arrivals-product-main-content > h1 {
+    text-align: center;
+    font-family: 'Lacquer', cursive;
+    padding: 60px 0;
+    font-size: 35px;
+}
+.icon-overlay {
+    position: absolute;
+    top: 372px;
+    bottom: 15px;
+    /* left: 0; */
+    /* right: 0; */
+    /* height: 100%; */
+    /* width: 100%; */
+    left: 15px;
+    right: 0;
+    height: 18%;
+    width: 93%;
+    cursor: pointer;
+    opacity: 0;
+    transition: .4s ease;
+    /*background-image: linear-gradient(to bottom right, #ff3475, #feb682);*/
+    background: #ffffff !important;
+}
+.icon-overlay-content {}
+.icon-overlay-content {}
+.icon-overlay-content {
+    color: black !important;
+    font-size: 25px;
+    position: absolute;
+    top: 50%;
+    text-decoration: none !important;
+    left: 33%;
+    margin: 0 61px;
+    display: flex;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+}
+.icon-overlay-content i {
+    margin: 0 35px;
+    text-decoration: none;
+}
+.main-icon-link {}
+.icon-overlay-content i:hover {
+    color: #ff3475cc;
+}
+.container:hover .icon-overlay {
+    opacity: 1;
+}
