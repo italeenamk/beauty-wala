@@ -14,6 +14,7 @@ const Contactus = () => {
                                   <input type="text" placeholder="Your Name" />
                                   <input type="email" placeholder="Your Email" />
                                   <textarea placeholder="Your Message" />
+                                  <button>SEND TO US</button>
                               </div>
                           </div>
                           <div className="col-md-6 col-sm-12">
