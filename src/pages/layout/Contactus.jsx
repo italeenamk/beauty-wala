@@ -9,7 +9,13 @@ const Contactus = () => {
               <div className="contact-us-file-content">
                   <div className="container-fluid">
                       <div className="row">
-                          <div className="col-md-6 col-sm-12"></div>
+                          <div className="col-md-6 col-sm-12">
+                              <div className="left-input-form-colum-content">
+                                  <input type="text" placeholder="Your Name" />
+                                  <input type="email" placeholder="Your Email" />
+                                  <textarea placeholder="Your Message" />
+                              </div>
+                          </div>
                           <div className="col-md-6 col-sm-12">
                               <div className="right-google-map-content">
                                   <iframe

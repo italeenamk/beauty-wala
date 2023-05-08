@@ -11,6 +11,25 @@
     padding: 0 6%;
     padding-bottom: 30px;
 }
+.left-input-form-colum-content {}
+.left-input-form-colum-content input {
+    outline: none;
+    font-family: 'Poppins', sans-serif;
+    display: block;
+    margin-bottom: 28px;
+    border: 1px solid #ebebeb;
+    padding: 11px 24px;
+    width: 100%;
+    border-radius: 0;
+    font-size: 15px;
+    letter-spacing: 1px;
+    background: transparent;
+}
+.left-input-form-colum-content textarea {
+    outline: none;
+    font-family: 'Poppins', sans-serif;
+}
+.left-input-form-colum-content {}
 .right-google-map-content {}
 .right-google-map-content iframe {
     width: 100%;
