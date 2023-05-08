@@ -5,16 +5,19 @@
 #navbar-content {}
 #navbar-content .container-fluid {}
 #navbar-content .container-fluid .row {
-    padding: 10px 5%;
+    padding: 0 5%;
+    background: white;
 }
+.navbar {}
 .navbar-nav {}
 .navbar-nav .nav-item {
     margin: 0 11px;
-    border-bottom: 3px solid transparent;
+    border-bottom: 4px solid transparent;
     transition: 0.2s;
+    padding-bottom: 6px;
 }
 .navbar-nav .nav-item:hover {
-    border-bottom: 3px solid #feb682;
+    border-bottom: 4px solid #feb682;
 }
 .navbar-nav .nav-item .nav-link {
     color: black;
@@ -33,4 +36,7 @@
 .navbar-brand img {
     margin-right: 10px;
     width: 33px;
+}
+.navbar-collapse {
+    margin-bottom: -8px;
 }
