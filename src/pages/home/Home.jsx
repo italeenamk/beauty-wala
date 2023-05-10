@@ -8,6 +8,7 @@ import Productdeal from "../layout/Productdeal";
 import Faqspage from "../layout/Faqspage";
 import Arrivalsproduct from "../layout/Arrivalsproduct";
 import Contactus from "../layout/Contactus";
+import Footer from "../layout/Footer";
 
 
 const Home = () => {
@@ -21,6 +22,7 @@ const Home = () => {
           <Faqspage/>
           <Arrivalsproduct/>
           <Contactus/>
+          <Footer/>
       </>
   )
 }
