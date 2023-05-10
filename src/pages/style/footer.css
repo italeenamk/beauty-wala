@@ -22,6 +22,21 @@
     font-weight: 500;
     font-family: 'Poppins', sans-serif;
 }
+.footer-list-content ul li a i {
+    font-size: 13px;
+    margin-right: 6px;
+}
 .footer-list-content ul li a:hover {
     text-decoration: underline;
+}
+.footer-list-content ul li a:hover i {
+    text-decoration: underline;
+}
+.footer-list-content p {
+    color: black;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 1px;
+    font-size: 17px;
+    margin-top: 27px;
 }

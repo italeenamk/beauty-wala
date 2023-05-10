@@ -49,12 +49,19 @@ const Footer = () => {
                                   <ul>
                                       <li><a href=""><i className="fa-solid fa-phone"></i> (646) 663-4575</a></li>
                                       <li><a href=""><i className="fa-solid fa-blender-phone"></i> (646) 968-0608</a></li>
-                                      <li><a href=""><i className="fa-solid fa-envelope"></i> help@engotheme.com</a></li>
-                                      <li><a href=""><i className="fa-solid fa-location-arrow"></i> 1201 Broadway Suite 600</a></li>
+                                      <li><a href=""><i className="fa-solid fa-envelope"></i> help@gotheme.com</a></li>
+                                      <li><a href=""><i className="fa-solid fa-location-arrow"></i> 1201 Broadway 600</a></li>
                                   </ul>
+                                  <div className="another-icon-content"></div>
                               </div>
                           </div>
-                          <div className="col-md-4 col-sm-12"></div>
+                          <div className="col-md-4 col-sm-12">
+                              <div className="footer-list-content">
+                                  <h3>Newsletters</h3>
+                                  <p>Be the first who learns about our
+                                      great promotions!</p>
+                              </div>
+                          </div>
                       </div>
                   </div>
               </div>
