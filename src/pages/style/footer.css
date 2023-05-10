@@ -1,4 +1,27 @@
 #footer-main-content {}
 .footer-list-main-content {}
 .footer-list-main-content .container-fluid {}
-.footer-list-main-content .container-fluid .row {}
+.footer-list-main-content .container-fluid .row {
+    padding: 35px 6%;
+}
+.footer-list-content {}
+.footer-list-content h3 {
+    font-family: 'Lacquer', cursive;
+    font-size: 23px;
+}
+.footer-list-content ul {
+    margin-top: 30px;
+}
+.footer-list-content ul li {
+    list-style: none;
+    margin: 16px 0;
+}
+.footer-list-content ul li a {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+}
+.footer-list-content ul li a:hover {
+    text-decoration: underline;
+}
