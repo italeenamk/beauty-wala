@@ -40,3 +40,35 @@
     font-size: 17px;
     margin-top: 27px;
 }
+.input-group {
+    margin-top: 30px;
+}
+.input-group input {
+    outline: none;
+    font-family: 'Poppins', sans-serif;
+    display: block;
+    margin-bottom: 28px;
+    border: 1px solid #ebebeb;
+    padding: 12.5px 24px;
+    width: 69%;
+    border-radius: 0;
+    font-size: 15px;
+    transition: 0.1s;
+    letter-spacing: 1px;
+    background: transparent;
+}
+.input-group-prepend {
+    height: 50px;
+}
+.input-group-text {
+    outline: none;
+    border: 1px solid transparent;
+    transition: 0.2s;
+    font-family: 'Poppins', sans-serif;
+    background: black !important;
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
+    letter-spacing: 3px;
+    padding: 14px 13px;
+}

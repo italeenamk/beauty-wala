@@ -60,6 +60,14 @@ const Footer = () => {
                                   <h3>Newsletters</h3>
                                   <p>Be the first who learns about our
                                       great promotions!</p>
+                                  <form>
+                                      <div className="input-group mb-3">
+                                          <input type="email" className="" placeholder="Enter your email..."/>
+                                          <div className="input-group-prepend">
+                                              <span className="input-group-text">SUBSCRIBE</span>
+                                          </div>
+                                      </div>
+                                  </form>
                               </div>
                           </div>
                       </div>
