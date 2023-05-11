@@ -49,3 +49,15 @@
 .container:hover .icon-overlay {
     opacity: 1;
 }
+.carousel-control-prev {
+    left: -64px;
+}
+.carousel-control-next {
+    padding-left: 104px;
+}
+.carousel-control-prev-icon {
+    color: black;
+}
+.carousel-control-next-icon {
+    color: black;
+}
