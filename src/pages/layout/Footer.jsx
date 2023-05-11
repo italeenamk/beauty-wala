@@ -70,6 +70,7 @@ const Footer = () => {
                                   </form>
                               </div>
                           </div>
+                          <hr/>
                       </div>
                   </div>
               </div>
