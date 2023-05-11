@@ -272,7 +272,7 @@ const Productdeal = () => {
                                           <div className="product-deal-card-content">
                                               <div className="product-deal-img-content">
                                                   <div className="container">
-                                                      <img src="https://venia-store-demo.myshopify.com/cdn/shop/products/33_4a302e7b-a7e2-4c3c-8c2d-ef9e9d70ded0.jpg?v=1588752047" alt="Avatar" className="img-fluid"/>
+                                                      <img src="https://venia-store-demo.myshopify.com/cdn/shop/products/26.jpg?v=1588752474" alt="Avatar" className="img-fluid"/>
                                                       {/*<div className="top-right">SALE</div>*/}
                                                       <div className="centered"> Expired</div>
                                                       <div className="overlay">
