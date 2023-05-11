@@ -76,3 +76,31 @@
     letter-spacing: 3px;
     padding: 14px 13px;
 }
+.footer-copy-right-link {}
+.footer-copy-right-link .container-fluid {}
+.footer-copy-right-link .container-fluid .row {}
+.footer-copy-link {
+    margin-top: -12px;
+    margin-bottom: 27PX;
+}
+.footer-copy-link p {
+    font-family: 'Poppins', sans-serif;
+    color: #6c6c6c;
+    letter-spacing: 1px;
+}
+.footer-copy-link p b {
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    cursor: pointer;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+.footer-copy-link p b:hover {
+    text-decoration: underline;
+}
+.footer-copy-link p span {
+    font-family: 'Poppins', sans-serif;
+    color: #d0936a;
+    cursor: pointer;
+    letter-spacing: 1px;
+}

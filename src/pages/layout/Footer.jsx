@@ -74,6 +74,17 @@ const Footer = () => {
                       </div>
                   </div>
               </div>
+              <div className="footer-copy-right-link">
+                  <div className="container-fluid">
+                      <div className="row">
+                          <div className="col-md-12 text-center">
+                              <div className="footer-copy-link">
+                                  <p>© Copyright 2020 | <b>VeniaStore</b> By EngoTheme. <span>Powered by Shopify.</span></p>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
           </section>
       </>
   )
