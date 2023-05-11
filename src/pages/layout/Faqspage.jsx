@@ -102,7 +102,7 @@ class Faqspage extends React.Component {
                                         </ul>
                                     </div>
                                 </div>
-                                <div className="col-md-6 col-sm-12 text-center">
+                                <div className="col-md-6 col-sm-12 text-center p-4">
                                     <div className="fsq-left-colum-img-content">
                                         <img src={ right_colum_img } alt="" className="img-fluid"/>
                                     </div>

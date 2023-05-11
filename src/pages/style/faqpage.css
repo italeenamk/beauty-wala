@@ -18,13 +18,11 @@
     color: black;
     margin-top: 20px;
     font-weight: 400;
+    margin-bottom: 26px;
     letter-spacing: 1px;
     font-size: 15px;
     line-height: 26px;
     text-align: center;
-}
-hr {
-    margin-top: 25px;
 }
 .faq-page-question-list-main-content {}
 .faq-page-question-list-main-content .container-fluid {}
@@ -35,7 +33,7 @@ hr {
     margin: 0 27px;
 }
 .question-list-content {
-    margin-top: 80px;
+    margin-top: 104px;
 }
 .question-list-content ul {}
 .question-list-content ul li {
