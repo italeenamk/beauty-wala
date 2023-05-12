@@ -105,8 +105,39 @@
     }
     .left-input-form-colum-content button {
         margin-bottom: 23px !important;
+        font-size: 12px !important;
     }
     .left-input-form-colum-content input {
         font-size: 13px !important;
     }
-}
+    .left-input-form-colum-content textarea input {
+        font-size: 13px !important;
+    }
+    .footer-list-main-content .container-fluid .row {
+        padding: 35px 3% !important;
+    }
+    .footer-list-content h3 {
+        font-size: 22px !important;
+    }
+    .footer-list-content ul li a {
+        font-size: 15px !important;
+    }
+    .footer-list-content ul {
+        margin-top: 30px !important;
+        margin-bottom: 45px !important;
+    }
+    .footer-list-content p {
+        font-size: 15px !important;
+    }
+    .input-group input {
+        width: 96% !important;
+        font-size: 13px !important;
+    }
+    .input-group-text {
+        font-size: 12px !important;
+        padding: 9px 18px !important;
+    }
+    .footer-copy-link p {
+        font-size: 13px !important;
+    }
+    }
