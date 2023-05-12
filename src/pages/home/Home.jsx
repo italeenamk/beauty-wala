@@ -9,6 +9,7 @@ import Faqspage from "../layout/Faqspage";
 import Arrivalsproduct from "../layout/Arrivalsproduct";
 import Contactus from "../layout/Contactus";
 import Footer from "../layout/Footer";
+import '../style/mobilescreen.css';
 
 
 const Home = () => {

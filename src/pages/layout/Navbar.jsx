@@ -12,7 +12,9 @@ const Navbar = () => {
                           <nav className="navbar navbar-expand-md navbar-dark">
                               <a className="navbar-brand" href="#"><img src={ logo_img } alt=""/>Beauty</a>
                               <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
-                                  <span className="navbar-toggler-icon"></span>
+                                  <span className="navbar-toggler-icon" style={{color: "black"}}>
+                                      <i className="fa-solid fa-ellipsis-vertical"></i>
+                                  </span>
                               </button>
                               <div className="collapse navbar-collapse" id="collapsibleNavbar">
                                   <div className="mr-auto"></div>

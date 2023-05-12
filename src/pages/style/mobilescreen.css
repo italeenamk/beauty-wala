@@ -1,0 +1,35 @@
+@media only screen and (max-width: 320px){
+    #navbar-content .container-fluid .row {
+        padding: 0 !important;
+    }
+    .navbar-nav {
+        margin: 18px 0 !important;
+    }
+    .navbar-nav .nav-item .nav-link {
+        font-size: 14px !important;
+        letter-spacing: 1px !important;
+    }
+    .navbar-dark .navbar-toggler{
+        margin-right: -27px;
+        padding-left: 157px;
+    }
+    .navbar-dark .navbar-toggler-icon {
+        display: contents !important;
+    }
+    .slider-side-content h3 {
+        font-size: 16px !important;
+    }
+    .slider-side-content h2 {
+        font-family: 'Lacquer', cursive;
+        margin: 5px 0 !important;
+        font-size: 40px !important;
+    }
+    .slider-side-content h5 {
+        font-size: 19px !important;
+        margin-top: 21px !important;
+    }
+    .slider-side-content button {
+        font-size: 11px !important;
+        margin-top: 17px !important;
+    }
+}
