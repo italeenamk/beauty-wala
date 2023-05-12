@@ -76,5 +76,37 @@
     }
     .faq-page-question-list-main-content .container-fluid .row {
         padding: 30px 0 !important;
+        margin: 0 !important;
+    }
+    .question-list-content {
+        margin: 0 !important;
+    }
+    .question-list-content ul li h3 {
+        font-size: 19px !important;
+    }
+    .question-list-content ul li h3 span {
+        font-size: 13px !important;
+    }
+    .fsq-left-colum-img-content img {
+        display: none !important;
+    }
+    #arrivals-product-main-content > h1 {
+        font-size: 28px !important;
+    }
+    #contactus-page-main-content h1 {
+        font-size: 28px !important;
+    }
+    .contact-us-file-content .container-fluid .row {
+        padding: 0 2% !important;
+    }
+    .today-deal-product-card-content .container-fluid .row {
+        padding: 0 1% !important;
+        padding-bottom: 88px !important;
+    }
+    .left-input-form-colum-content button {
+        margin-bottom: 23px !important;
+    }
+    .left-input-form-colum-content input {
+        font-size: 13px !important;
     }
 }
