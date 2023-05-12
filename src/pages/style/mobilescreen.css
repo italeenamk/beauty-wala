@@ -32,4 +32,18 @@
         font-size: 11px !important;
         margin-top: 17px !important;
     }
+    .slider-content .container-fluid .row {
+        padding: 95px 2% !important;
+    }
+    #product-menu-content .container-fluid .row {
+        padding: 0 1% !important;
+        padding-bottom: 30px !important;
+    }
+    .product-effect-content .product-menu-text-content {
+        left: 22px !important;
+        top: -124px !important;
+    }
+    .product-menu-text-content h2 {
+        font-size: 23px !important;
+    }
 }
