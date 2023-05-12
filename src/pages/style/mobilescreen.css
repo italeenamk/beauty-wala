@@ -46,4 +46,35 @@
     .product-menu-text-content h2 {
         font-size: 23px !important;
     }
+    .product-menu-text-content p {
+        font-size: 14px !important;
+    }
+    .product-menu-text-content a {
+        font-size: 15px !important;
+    }
+    .product-effect-content {
+        margin-bottom: -47px !important;
+    }
+    .about-team-text-content h2 {
+        font-size: 28px !important;
+    }
+    .about-team-text-content p {
+        font-size: 13px !important;
+    }
+    #today-deal-main-content > h1 {
+        font-size: 28px !important;
+    }
+    .carousel-control-next {
+        padding-left: 0 !important;
+        display: none;
+    }
+    .faq-text-heading-content > h2 {
+        font-size: 28px !important;
+    }
+    .faq-text-heading-content > p {
+        font-size: 13px !important;
+    }
+    .faq-page-question-list-main-content .container-fluid .row {
+        padding: 30px 0 !important;
+    }
 }
