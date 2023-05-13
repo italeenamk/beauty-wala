@@ -473,6 +473,17 @@
         list-style: none;
         margin: 32px 0;
     }
+    .fsq-left-colum-img-content img {
+        margin-top: 23px;
+        display: block !important;
+    }
+    .product-deal-card-content .product-deal-img-content img {
+        cursor: pointer;
+        width: 93%;
+    }
+    .top-right {
+        right: 43px;
+    }
     .services-card-content p {
         font-size: 13px;
         letter-spacing: 1px;
