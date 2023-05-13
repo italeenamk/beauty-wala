@@ -434,13 +434,54 @@
         font-size: 13px !important;
     }
 }
-/*320-mobile-screen*/
-@media only screen and (max-width: 425px){
+/*768-mobile-screen*/
+@media only screen and (max-width: 768px) and (min-width: 588px){
+    #services-content .container-fluid .row {
+        padding: 81px 1% !important;
+    }
+    .services-card-content img {
+        width: 62px;
+    }
+    .services-card-content h3 {
+        font-size: 18px !important;
+    }
+    .about-team-profile-content .container-fluid .row {
+        padding: 34px 1%;
+    }
+    .extra-team-hover-effect img {
+        width: 169px;
+    }
+    .container {
+        position: relative;
+        width: 129%;
+        max-width: 400px;
+    }
+    .icon {
+        font-size: 17px !important;
+        left: 18% !important;
+    }
+    .product-item-detail-content h3 {
+        font-size: 18px;
+    }
+    .product-item-detail-content p {
+        font-size: 14px;
+    }
+    .question-list-content ul li h3 {
+        font-size: 18px;
+    }
+    .question-list-content ul li {
+        list-style: none;
+        margin: 32px 0;
+    }
+    .services-card-content p {
+        font-size: 13px;
+        letter-spacing: 1px;
+    }
     #navbar-content .container-fluid .row {
         padding: 0 !important;
     }
     .navbar-nav {
-        margin: 18px 0 !important;
+        margin: 0 !important;
     }
     .navbar-nav .nav-item .nav-link {
         font-size: 14px !important;
